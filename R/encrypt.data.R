@@ -33,7 +33,7 @@ data
 {
 # 1. Check parameters ----------
 shinemas2R.object = attributes(data$data)$shinemas2R.object
-
+#comm
 if( !is.element(shinemas2R.object, c(
 	"network",
 	"SL.mix",
